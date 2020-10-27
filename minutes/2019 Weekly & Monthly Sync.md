@@ -262,10 +262,7 @@ CHAOSScon:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![CHAOSS Beanie](https://i.imgur.com/C1glKGo.png)
 
 
 Metrics Release Tracking
@@ -314,12 +311,7 @@ Notes:
         *   [https://clearlydefined.io/](https://clearlydefined.io/) 
         *   OSI in Augur
 
-            
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![augur screenshot](https://i.ibb.co/NT29np2/image.png)
 
 
     *   D&I
